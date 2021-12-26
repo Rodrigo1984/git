@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0px;
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+div{
+  background: #111;
+  padding: 20px;
+  margin: 20px auto;
+  width: 800px;
+}
+
+h1{
+  text-align: center;
+  padding: 40px 0 20px 0;
+}
+
+h2{
+  color: white;
+  padding: 10px 0;
+}
+p{
+  color: #9E9D9E;
+  padding-bottom: 8px;
+}
+
+span{
+  color: #febe01;
+}
+
+button{
+  
+  background: #febe01;
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+}
+a{
+  display: inline-block;
+  text-decoration: none;
+  color: #332200;
+  padding:  ;
+}
